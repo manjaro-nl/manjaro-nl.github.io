@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Manjaro-NL</title><link href="https://manjaro-nl.github.io/" rel="alternate"></link><link href="https://manjaro-nl.github.io/feeds/all.atom.xml" rel="self"></link><id>https://manjaro-nl.github.io/</id><updated>2016-01-02T00:00:00+01:00</updated><entry><title>Fosdem 2016</title><link href="https://manjaro-nl.github.io/posts/2016/01/02/fosdem-2016.html" rel="alternate"></link><updated>2016-01-02T00:00:00+01:00</updated><author><name>Manjaro-NL</name></author><id>tag:manjaro-nl.github.io,2016-01-02:posts/2016/01/02/fosdem-2016.html</id><summary type="html">&lt;p&gt;FOSDEM is een jaarlijks evenement rond vrije en open source software.
+Waar developers en hobbyisten elkaar ontmoeten, ideeën en plannen
+uitgewisseld worden.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://fosdem.org/2016/"&gt;Fosdem website&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href="https://video.fosdem.org/2016"&gt;Fosdem video pagina&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;foto's © Jarco:&lt;/p&gt;</summary><category term="fosdem"></category></entry><entry><title>Dit is Manjaro linux!</title><link href="https://manjaro-nl.github.io/posts/2016/01/01/welcome.html" rel="alternate"></link><updated>2016-01-01T00:00:00+01:00</updated><author><name>Manjaro-NL</name></author><id>tag:manjaro-nl.github.io,2016-01-01:posts/2016/01/01/welcome.html</id><summary type="html">&lt;p&gt;&lt;img src="https://manjaro-nl.github.io/images/Tux_manjaro.png" width="100"&gt;&lt;/p&gt;
+&lt;h3&gt;Welkom op de Nederlandstalige website van Manjaro linux!&lt;/h3&gt;
+&lt;p&gt;Manjaro is een op Arch linux gebaseerde distributie, waardoor ook gebruik kan gemaakt
+worden van de geweldige Arch User Repository (AUR).&lt;/p&gt;
+&lt;p&gt;Laten we benadrukken: Manjaro is niet gelijk aan Arch!
+Manjaro is meer dan zomaar een vereenvoudigde Arch-beleving, er zijn duidelijke
+verschillen:&lt;/p&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;Manjaro wordt onafhankelijk ontwikkeld vanuit Arch met een compleet ander
+team.&lt;/li&gt;
+&lt;li&gt;Manjaro is toegankelijker voor beginners, terwijl Arch meer gericht is op de
+ervaren gebruiker.&lt;/li&gt;
+&lt;li&gt;Het voorzien van onafhankelijke servers voor software met zijn
+updates. Alsook het beschikbaar stellen van zijn eigen softwarepakketten.&lt;/li&gt;
+&lt;li&gt;Met distributiespecifieke hulpmiddelen zoals de Manjaro Hardware Detectie
+(MHWD) tool en de Manjaro Settings Manager (MSM).  &lt;/li&gt;
+&lt;li&gt;Een vriendelijke forumgemeenschap, waar zowel beginners als ervaren gebruikers
+hun ervaringen en/of problemen kunnen delen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Neem een kijkje op het Nederlandstalig
+&lt;a href="http://www.manjaro-nl.org/smfnl/index.php"&gt;forum&lt;/a&gt; en registreer je!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Of kom gezellig meechatten met een kopje koffie bij de hand op irc.freenode.net
+&lt;/strong&gt; #&lt;strong&gt;&lt;a href="https://manjaro-nl.github.io/pages/irc.html"&gt;manjaro-nl&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;</summary></entry><entry><title>This is Manjaro linux!</title><link href="https://manjaro-nl.github.io/posts/2016/01/01/welcome-en.html" rel="alternate"></link><updated>2016-01-01T00:00:00+01:00</updated><author><name>Manjaro-NL</name></author><id>tag:manjaro-nl.github.io,2016-01-01:posts/2016/01/01/welcome-en.html</id><summary type="html">&lt;p&gt;&lt;img src="https://manjaro-nl.github.io/images/Tux_manjaro.png" width="100"&gt;&lt;/p&gt;
+&lt;h3&gt;Welcome to the Dutch speaking community of Manjaro linux!&lt;/h3&gt;
+&lt;p&gt;If you were searching for the main english website and forum, please visit the &lt;a href="https://manjaro.github.io/"&gt;Manjaro
+website&lt;/a&gt; and/or &lt;a href="https://forum.manjaro.org/"&gt;forum&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Otherwise have a look and feel free to join the dutch speaking community on
+irc.freenode.net&lt;/strong&gt; #&lt;strong&gt;&lt;a href="https://manjaro-nl.github.io/pages/irc.html"&gt;manjaro-nl&lt;/a&gt; and  &lt;a href="http://www.manjaro-nl.org/smfnl/index.php"&gt;forum&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;</summary></entry></feed>

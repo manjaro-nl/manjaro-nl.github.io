@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>./posts/2016/01/02/fosdem-2016.html</loc>
+    <loc>https://manjaro-nl.github.io/posts/2016/01/02/fosdem-2016.html</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>./posts/2016/01/01/welcome.html</loc>
+    <loc>https://manjaro-nl.github.io/posts/2016/01/01/welcome.html</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>./posts/2016/01/01/welcome-en.html</loc>
+    <loc>https://manjaro-nl.github.io/posts/2016/01/01/welcome-en.html</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>./pages/events-list.html</loc>
+    <loc>https://manjaro-nl.github.io/pages/events-list.html</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>./pages/irc.html</loc>
+    <loc>https://manjaro-nl.github.io/pages/irc.html</loc>
     <priority>1.0</priority>
   </url>
 
@@ -31,27 +31,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>./posts/2016/01/02/fosdem-2016.html</loc>
+    <loc>https://manjaro-nl.github.io/posts/2016/01/02/fosdem-2016.html</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>./posts/2016/01/01/welcome.html</loc>
+    <loc>https://manjaro-nl.github.io/posts/2016/01/01/welcome.html</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>./posts/2016/01/01/welcome-en.html</loc>
+    <loc>https://manjaro-nl.github.io/posts/2016/01/01/welcome-en.html</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>./pages/events-list.html</loc>
+    <loc>https://manjaro-nl.github.io/pages/events-list.html</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>./pages/irc.html</loc>
+    <loc>https://manjaro-nl.github.io/pages/irc.html</loc>
     <priority>1.0</priority>
   </url>
 
