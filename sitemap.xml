@@ -17,6 +17,11 @@
   </url>
 
   <url>
+    <loc>https://manjaro-nl.github.io/pages/contact.html</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
     <loc>https://manjaro-nl.github.io/pages/events-list.html</loc>
     <priority>1.0</priority>
   </url>
@@ -43,6 +48,11 @@
   <url>
     <loc>https://manjaro-nl.github.io/posts/2016/01/01/welcome-en.html</loc>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://manjaro-nl.github.io/pages/contact.html</loc>
+    <priority>1.0</priority>
   </url>
 
   <url>
