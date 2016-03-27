@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://manjaro-nl.github.io/posts/2016/01/02/fosdem-2016.html</loc>
+    <loc>https://manjaro-nl.github.io/posts/2016/01/30/fosdem-2016.html</loc>
     <priority>0.8</priority>
   </url>
 
@@ -17,12 +17,7 @@
   </url>
 
   <url>
-    <loc>https://manjaro-nl.github.io/pages/contact.html</loc>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://manjaro-nl.github.io/pages/events-list.html</loc>
+    <loc>https://manjaro-nl.github.io/pages/community.html</loc>
     <priority>1.0</priority>
   </url>
 
@@ -36,7 +31,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://manjaro-nl.github.io/posts/2016/01/02/fosdem-2016.html</loc>
+    <loc>https://manjaro-nl.github.io/posts/2016/01/30/fosdem-2016.html</loc>
     <priority>0.8</priority>
   </url>
 
@@ -51,12 +46,7 @@
   </url>
 
   <url>
-    <loc>https://manjaro-nl.github.io/pages/contact.html</loc>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://manjaro-nl.github.io/pages/events-list.html</loc>
+    <loc>https://manjaro-nl.github.io/pages/community.html</loc>
     <priority>1.0</priority>
   </url>
 
